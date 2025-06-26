@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 04 Team Activity: Writing Functions
 
 import math
