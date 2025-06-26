@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 01 Prove Milestone: Review Python
 import math
 
