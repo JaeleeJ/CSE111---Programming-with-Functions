@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee
 # 09 Prove Milestone: Text Files
 import csv
 from datetime import datetime
