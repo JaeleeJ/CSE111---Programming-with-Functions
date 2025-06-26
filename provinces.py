@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 09 Individual Checkpoint
 
 def main():
