@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 04 Checkpoint: Variable Scope
 
 """Compute and print the volume of a right circular cone."""
