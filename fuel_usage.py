@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee
 # 03 Checkpoint: Writing Functions
 
 def main():
