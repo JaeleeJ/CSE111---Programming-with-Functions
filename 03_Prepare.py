@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 03 Prepare: Writing Functions
 
 import math
