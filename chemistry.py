@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 07 Prove Milestone: Lists
 
 def main():
