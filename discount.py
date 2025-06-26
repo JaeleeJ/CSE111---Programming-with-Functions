@@ -1,5 +1,5 @@
-# Jaelee Hutchinson
-# 02 Teach Actiity: Calling Functions
+# Jaelee
+# 02 Teach Activity: Calling Functions
 
 # import datetime
 from datetime import datetime
