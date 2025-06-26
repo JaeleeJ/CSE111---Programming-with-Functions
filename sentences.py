@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee
 # 05 Milestone: Testing and Fixing Functions
 
 import random
