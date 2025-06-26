@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 02 Checkpoint: Calling Functions
 
 import math
