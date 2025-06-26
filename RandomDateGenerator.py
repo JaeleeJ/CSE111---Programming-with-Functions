@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # Final Project
 # Random Date Generator
 import random
