@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 01 Checkpoint: Review Python
 
 """
