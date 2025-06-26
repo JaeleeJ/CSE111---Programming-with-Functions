@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 #06 Team Activity: Troubleshooting Functions
 
 NEGATIVE = -1
