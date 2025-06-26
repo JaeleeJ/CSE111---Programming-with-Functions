@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 03 Team Activity: Writing Functions
 
 # Import datetime so that it can be
