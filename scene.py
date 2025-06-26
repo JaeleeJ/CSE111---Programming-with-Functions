@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 03 Prove Milestone: Writing Functions
 
 # Import the functions from the Draw 2-D library
