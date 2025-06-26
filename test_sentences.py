@@ -1,4 +1,4 @@
-# Jaelee Hutchinson
+# Jaelee 
 # 05 Milestone: Testing and Fixing Functions
 
 from sentences import get_determiner, get_noun, get_verb, get_preposition, get_prepositional_phrase
